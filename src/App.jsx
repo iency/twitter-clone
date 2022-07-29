@@ -6,7 +6,7 @@ function App() {
     <div className="app">
       <h1>hey kuck</h1>
       <Sidebar />
-
+      
       {/* Feed */}
 
       {/* Widgets */}
